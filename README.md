@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -24,5 +25,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
