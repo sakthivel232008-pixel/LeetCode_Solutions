@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
