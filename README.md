@@ -18,16 +18,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -45,8 +48,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
