@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -71,8 +72,10 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
