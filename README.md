@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -41,12 +42,14 @@
 | [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -73,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -81,6 +85,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
