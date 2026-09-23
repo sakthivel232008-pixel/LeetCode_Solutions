@@ -23,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -89,6 +90,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
