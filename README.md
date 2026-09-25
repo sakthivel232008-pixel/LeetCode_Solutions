@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
