@@ -18,6 +18,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
