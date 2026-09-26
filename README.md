@@ -20,6 +20,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3099-harshad-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3959-check-good-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3959-check-good-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3959-check-good-integer) |
 ## Hash Table
 |  |
 | ------- |
