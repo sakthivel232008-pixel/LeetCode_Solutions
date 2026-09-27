@@ -19,6 +19,7 @@
 | [2652-sum-multiples](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3099-harshad-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3959-check-good-integer) |
 ## Array
@@ -38,6 +39,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -85,6 +87,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
