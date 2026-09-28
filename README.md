@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -51,6 +52,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [1678-goal-parser-interpretation](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
