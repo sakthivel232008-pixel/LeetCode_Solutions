@@ -7,6 +7,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0326-power-of-three) |
 ## Queue
 |  |
 | ------- |
