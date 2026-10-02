@@ -30,6 +30,7 @@
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
