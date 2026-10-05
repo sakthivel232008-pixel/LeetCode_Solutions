@@ -35,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -112,6 +113,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
