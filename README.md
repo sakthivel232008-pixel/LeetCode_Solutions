@@ -46,6 +46,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -92,6 +93,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
