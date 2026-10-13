@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -142,12 +143,14 @@
 | ------- |
 | [0136-single-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0342-power-of-four) |
 ## Queue
 |  |
 | ------- |
