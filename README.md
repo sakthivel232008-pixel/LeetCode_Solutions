@@ -15,6 +15,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1688-count-of-matches-in-tournament](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
+| [1688-count-of-matches-in-tournament](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3959-check-good-integer](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3959-check-good-integer) |
 ## Hash Table
