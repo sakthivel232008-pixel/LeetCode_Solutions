@@ -21,6 +21,7 @@
 | [2469-convert-the-temperature](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3099-harshad-number) |
@@ -88,6 +89,7 @@
 | [0912-sort-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2578-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2578-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
