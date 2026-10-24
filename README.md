@@ -58,6 +58,7 @@
 | [1550-three-consecutive-odds](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -130,6 +131,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2716-minimize-string-length](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
