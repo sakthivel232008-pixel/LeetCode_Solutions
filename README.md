@@ -50,6 +50,7 @@
 | [0704-binary-search](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -93,6 +94,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2578-split-with-minimum-sum](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/2578-split-with-minimum-sum) |
 ## String
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/sakthivel232008-pixel/LeetCode_Solutions/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
 | ------- |
